@@ -1,4 +1,4 @@
-package com.lab2.practice2;
+		package com.lab2.practice2;
 
 import java.util.Scanner;
 
@@ -55,9 +55,9 @@ public class Money {
 					}
 				}
 			}
-     }catch (ArithmeticException e) {
-    	 System.out.println(e+" Notes of denomination 0 is invalid ");
-     }
+	     }catch (ArithmeticException e) {
+	    	 System.out.println(e+" Notes of denomination 0 is invalid ");
+	     }
 }
 	
 	public static void sortArray(int[] array) {
