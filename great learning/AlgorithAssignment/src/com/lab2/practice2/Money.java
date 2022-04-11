@@ -19,7 +19,7 @@ public class Money {
 			}
 		}
 		
-        sortArray(denominations);
+                sortArray(denominations);
 	
 		System.out.println("Enter payable ammout");
 		int ammount =scan.nextInt() ;
